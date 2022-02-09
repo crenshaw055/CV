@@ -1,0 +1,116 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family:hipsteria;
+  color: #40514E;
+  }
+h1{
+
+  margin: 50px auto 0 auto;
+  font-size: 90px;
+  color: #F4DFBA;
+  line-height: 2;
+}
+h2{
+  font-size: 2.5rem;
+  color: #F4DFBA;
+  font-weight: normal;
+  padding-top: 25px;
+}
+h3{
+  font-size: 1.5rem;
+  color:#CA965C;
+
+}
+
+.topcontainer{
+  background-color: #BF9270;
+  position: relative;
+  padding-top: 100px;
+}
+.computer{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.wieght-lifting{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.volleyball{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.bottom-container{
+  background-color: #BF9270;
+  height: 100px;
+    padding-top: 25px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 200px;
+}
+.top-cloud{
+  position: absolute;
+  right:300px;
+  top: 50px;
+}
+
+a{
+  color: #0F0E0E;
+font-size: 20px;
+}
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+line-height: 2;
+}
+
+hr{
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #BF9270;
+  border-width: 5px;
+  width: 5%;
+      margin-top: 70px;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+p{
+  font-family: Verdana;
+}
+.h32{
+  color:#CA965C;
+}
+  .myprofilepic  {
+    padding-top: 25px;
+  }
